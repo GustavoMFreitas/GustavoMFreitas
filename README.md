@@ -4,15 +4,14 @@
 
 <h3>Meus Conhecimentos 🧠</h3>
 
-- &nbsp; Linguagens de Programação: 
+&nbsp; Linguagens de Programação: 
 
-<ul Linguagens de Programação>
-  <li>Conhecimento em lógica de programação;</li>
-  <li>Python;</li>
-  <li>Java;</li>
-  <li>C#;</li>
-  <li>C++;</li>
-  <li>C.</li>
+- Conhecimento em lógica de programação;
+- Python;
+- Java;
+- C#;
+- C++;
+- C.
 </ul>
 
 &nbsp; Bancos de Dados: Familiarizado com MySQL, PostgreSQL e Oracle, capaz de manipular bancos de dados para armazenamento e análise de informações.
