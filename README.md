@@ -20,3 +20,8 @@
 - PostgreSQL;
 - Oracle;
 - Capacidade de manipular bancos de dados para armazenamento e análise de informações.
+
+
+<h3>Hobbies 🎮</h3>
+
+No meu tempo livre gosto de estudar sobre desenvolvimento de de jogos.
