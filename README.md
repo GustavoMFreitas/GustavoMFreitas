@@ -6,7 +6,10 @@
 - &nbsp; Linguagens de Programação: Conhecimento em lógica de programação, Python, Java, C#, C++, C.
 - &nbsp; Bancos de Dados: Familiarizado com MySQL, PostgreSQL e Oracle, capaz de manipular bancos de dados para armazenamento e análise de informações.
 <ul Linguagens de Programação>
-  <li>Conhecimento em lógica de programação</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Conhecimento em lógica de programação;</li>
+  <li>Python;</li>
+  <li>Java;</li>
+  <li>C#;</li>
+  <li>C++;</li>
+  <li>C.</li>
 </ul>
