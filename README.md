@@ -14,4 +14,4 @@
   <li>C.</li>
 </ul>
 
-- &nbsp; Bancos de Dados: Familiarizado com MySQL, PostgreSQL e Oracle, capaz de manipular bancos de dados para armazenamento e análise de informações.
+&nbsp; Bancos de Dados: Familiarizado com MySQL, PostgreSQL e Oracle, capaz de manipular bancos de dados para armazenamento e análise de informações.
