@@ -19,7 +19,6 @@
 - Familiarizado com MySQL;
 - PostgreSQL;
 - Oracle;
-- Capacidade de manipular bancos de dados para armazenamento e análise de informações.
 
 
 <h3>Hobbies 🎮</h3>
