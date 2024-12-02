@@ -1,26 +1,30 @@
-<h1> Olá! Eu sou o Gustavo 👋 </h1>
+<h1>Olá! Eu sou o Gustavo 👋</h1>
 
-<h2>Sou um engenheiro de computação em formação pela Universidade Tecnológica Federal do Paraná. Tenho uma paixão pela tecnologia e estou constantemente buscando aprimorar minhas habilidades e conhecimentos.</h2>
+<h2>🚀 Sobre Mim</h2>
+<p>
+Sou um engenheiro de computação formado pela Universidade Tecnológica Federal do Paraná e atualmente trabalho com desenvolvimento de software utilizando .NET. Tenho uma paixão por tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades e conhecimentos.
+</p>
 
-<h3>Meus Conhecimentos 🧠</h3>
+<h2>💻 Meus Conhecimentos</h2>
 
-&nbsp; Linguagens de Programação: 
-
-- Conhecimento em lógica de programação;
-- Python;
-- Java;
-- C#;
-- C++;
-- C.
+<h3>🔹 Linguagens de Programação</h3>
+<ul>
+  <li>C# (.NET)</li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>C++</li>
+  <li>C</li>
+  <li>Sólida base em lógica de programação</li>
 </ul>
 
-&nbsp; Bancos de Dados: 
+<h3>🔹 Bancos de Dados</h3>
+<ul>
+  <li>MySQL</li>
+  <li>SQL Server</li>
+  <li>PostgreSQL</li>
+</ul>
 
-- Familiarizado com MySQL;
-- PostgreSQL;
-- Oracle;
-
-
-<h3>Hobbies 🎮</h3>
-
-No meu tempo livre gosto de estudar sobre desenvolvimento de de jogos.
+<h2>🎮 Hobbies</h2>
+<p>
+No meu tempo livre gosto de estudar sobre desenvolvimento de de jogos. Gosto de explorar motores gráficos, design de jogos e técnicas de programação específicas para criar experiências interativas.
+</p>
